@@ -10,7 +10,6 @@
 
 //Write a program that contains a function that excepts an integer value. Use the integer value past to the function as the starting value of your for loop.
 
-void displayIT(int);
 
 void acceptInteger(int a){
     int i;

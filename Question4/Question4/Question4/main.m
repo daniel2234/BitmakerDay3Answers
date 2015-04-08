@@ -10,13 +10,15 @@
 
 //Write a program that defines a function that excepts string and returns the result.
 
-void acceptString(NSString *message){
-    NSLog(@"This is string you out in %@", message);
+NSString *acceptString(NSString *message){
+    return message;
 }
+
 
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
-        acceptString(@"Daniel");
+        NSString *word = acceptString(@"Daniel");
+        NSLog(@"This project belongs to %@", word);
     }
     return 0;
 }

@@ -7,13 +7,16 @@
 //
 
 #import <Foundation/Foundation.h>
-
-
+//fahrenheit to celsuis converter
+void convertFahToCel(int f){
+    int celsuis = ((f - 32) / 1.8);
+    NSLog(@"The temperature is %d",celsuis);
+}
 
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
-        // insert code here...
-        NSLog(@"Hello, World!");
-    }
+        int a = 100;
+        convertFahToCel(a);
+            }
     return 0;
 }

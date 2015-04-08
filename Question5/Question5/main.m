@@ -25,6 +25,8 @@ int main(int argc, const char * argv[]) {
     @autoreleasepool {
         // insert code here...
         highValue(10, 10);
+        highValue(9, 10);
+        highValue(10, 9);
     }
     return 0;
 }

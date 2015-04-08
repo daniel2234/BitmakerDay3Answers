@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>927AB587-A010-4E60-86D9-C24D7BEEDFF4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Question3</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FBA009980F1CDFDA6F362D3DBFBF896AD10B3054</key>
+		<string>https://github.com/daniel2234/BitmakerDay3Answers.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Question3/Question3/Question3.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FBA009980F1CDFDA6F362D3DBFBF896AD10B3054</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/daniel2234/BitmakerDay3Answers.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FBA009980F1CDFDA6F362D3DBFBF896AD10B3054</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FBA009980F1CDFDA6F362D3DBFBF896AD10B3054</string>
+			<key>IDESourceControlWCCName</key>
+			<string>BLabsDay3Answers</string>
+		</dict>
+	</array>
+</dict>
+</plist>
